@@ -1,1 +1,1 @@
-add a readme
+Version de python: 3.13.2
